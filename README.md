@@ -1,16 +1,19 @@
-# reto2
+# NCR2286_G4_C4
 
-A new Flutter project.
+## Demo 
 
-## Getting Started
+Equipo 4:
 
-This project is a starting point for a Flutter application.
+* Deissy Durán Rodríguez 
+* Hamel Perez Benavides
+* Jeckson Sampayo Mendoza
+* Juan Campos Barrera
+* Miguel Chavez
 
-A few resources to get you started if this is your first Flutter project:
+A continuacion se presenta el Demo para la aplicacion de carrito de compras con manejo de estados y libreria GetX propuesta para la resolucion del Reto N° 2 del ciclo N° 4 Mision TIC "Desarrollo Movil"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+> Enlace GitHub:
+
+https://github.com/MiguelAngelChavezDev/NCR2286_G4_C4_RETO2.git
